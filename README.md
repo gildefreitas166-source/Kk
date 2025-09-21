@@ -1,1 +1,1 @@
-# Kk
+# 📺 IPTV App\n\nAplicativo IPTV em React Native (Expo). Suporta listas M3U, categorias e player de vídeo.\n\n- Build automatizado com Expo EAS\n- Upload automático para Mediafire\n\nVeja as instruções no workflow `.github/workflows/build-mediafire.yml`.\n
